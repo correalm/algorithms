@@ -1,3 +1,5 @@
+# see: https://codeforces.com/problemset/problem/318/A
+
 def even_odds(number, k):
     odds = []
     evens = []
